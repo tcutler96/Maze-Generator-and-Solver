@@ -24,5 +24,4 @@ Algorithm controls which path the solver will follow:
 
 The solver ends when it reaches the end cell. It then walks back through the path and marks it so you can see the full path through the maze.
 
-## Demo
 ![Demo](demo/demo.gif)
